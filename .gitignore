@@ -1,0 +1,6 @@
+db.sqlite3
+mysite/secret.py
+blog/migrations/
+mysite/__pycache__/
+blog/__pycache__/
+**/migrations/**
