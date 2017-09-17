@@ -1,0 +1,2 @@
+# Blog
+I made a Blog using a python framework Django. For the front end I used bootstrap to make the blog responsive. It has basic blog functions such as being able to write your own post and view other posts created by other users. I also included user authentication that requires the user to first sign in before they could create their own post. Also if they they don't have a account they could create one.
